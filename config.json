@@ -1,0 +1,15 @@
+{
+	"params":
+	{
+		"local_server":"True",
+		"local_uri":"mysql://root:@localhost/video",
+		"prod_uri":"mysql://root:@localhost/video",
+		"fb_url":"https://facebook.com/video",
+		"tw_url":"https://twitter.com/video",
+		"git_url":"https://github.com/video",
+		"gmail_user":"techteam@gmail.com",
+		"gmail_password":"Google@12345"
+
+
+	}
+}
